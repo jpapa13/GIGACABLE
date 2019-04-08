@@ -1,0 +1,10 @@
+C:\Users\irving\Documents\SharpDevelop Projects\GIGACABLE\GIGACABLE\bin\Debug\GIGACABLE.exe.config
+C:\Users\irving\Documents\SharpDevelop Projects\GIGACABLE\GIGACABLE\bin\Debug\GIGACABLE.exe
+C:\Users\irving\Documents\SharpDevelop Projects\GIGACABLE\GIGACABLE\bin\Debug\GIGACABLE.pdb
+C:\Users\irving\Documents\SharpDevelop Projects\GIGACABLE\GIGACABLE\obj\Debug\GIGACABLE.exe
+C:\Users\irving\Documents\SharpDevelop Projects\GIGACABLE\GIGACABLE\obj\Debug\GIGACABLE.pdb
+C:\Users\irving\Documents\SharpDevelop Projects\GIGACABLE\GIGACABLE\obj\Debug\GIGACABLE.MainForm.resources
+C:\Users\irving\Documents\SharpDevelop Projects\GIGACABLE\GIGACABLE\obj\Debug\GIGACABLE.csproj.GenerateResource.Cache
+C:\Users\irving\Documents\SharpDevelop Projects\GIGACABLE\GIGACABLE\obj\Debug\GIGACABLE.csprojAssemblyReference.cache
+C:\Users\irving\Documents\SharpDevelop Projects\GIGACABLE\GIGACABLE\obj\Debug\GIGACABLE.Form1.resources
+C:\Users\irving\Documents\SharpDevelop Projects\GIGACABLE\GIGACABLE\obj\Debug\GIGACABLE.csproj.CoreCompileInputs.cache
